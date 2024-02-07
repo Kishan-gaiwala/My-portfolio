@@ -4,12 +4,10 @@
   margin: 2rem 0;
   font-style: normal;
   font-weight: 600;
-  background: linear-gradient(
-    89.81deg,
-    #9845e8 -1.72%,
-    #33d2ff 54.05%,
-    #dd5789 99.78%
-  );
+  background: linear-gradient(89.81deg,
+      #9845e8 -1.72%,
+      #33d2ff 54.05%,
+      #dd5789 99.78%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -17,6 +15,25 @@
   background-size: 150% 150%;
   animation: gradient 15s ease infinite;
   line-height: 1.2;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #36D0FD;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #36D0FD;
 }
 
 @keyframes gradient {
