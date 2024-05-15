@@ -21,8 +21,11 @@ export const info = {
       startDate: "Jun 2022",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "✓ Developing screens and UI components for the web application using React and Tailwind.",
+        "✓ Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "✓ Implementing two frameworks in one project.",
+        "✓ Working in Healthcare domain.",
+        "✓ Working with the team to deliver the project on time.",
       ],
     },
 
@@ -32,12 +35,11 @@ export const info = {
       startDate: "Dec 2021",
       endDate: "Jun 2022",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "✓ Developing code in accordance with appropriate design and architectural rules.",
+        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions.",
+        "✓ Help and training of other colleagues.",
+        "✓ Others tasks connected to the nature of the job.",
+        "✓ Code Improvements and Refactoring.",
       ],
     },
 
@@ -47,8 +49,8 @@ export const info = {
       startDate: "Feb 2021",
       endDate: "May 2021",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A 3 months program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "✓ An Immersive Internship Program that prepares me for the world's most in-demand career. A 3 months program completely based on learning and challenges.",
+        "✓ The internship track is built by an industry expert that let develop the skills in the areas most important ",
       ],
     },
   ],
@@ -86,7 +88,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "assets/p2.png",
       githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
-      liveUrl: "https://covet-html-site.vercel.app/",
+      liveUrl: "https://www.covest.in/",
     },
   ],
 };
