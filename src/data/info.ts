@@ -11,7 +11,7 @@ export const info = {
   //  So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
   //  firebase and React Native with time.
   // `,
-  about: `I'm a web developer with 2 years of experience in creating websites and applications using HTML, CSS, JavaScript, and React. I know a bit about Node.js too. I love turning design ideas into user-friendly websites. I'm good at problem-solving and always eager to learn new things.
+  about: `I'm a web developer with 3+ years of experience in creating websites and applications using HTML, CSS, JavaScript, and React. I know a bit about Node.js too. I love turning design ideas into user-friendly websites. I'm good at problem-solving and always eager to learn new things.
   `,
 
   experience: [
@@ -77,18 +77,25 @@ export const info = {
 
   projects: [
     {
+      title: "Covest",
+      isFeatured: true,
+      thumbnail: "assets/p2.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://www.covest.in/",
+    },
+    {
+      title: "Westatlantic Tech Corp.",
+      isFeatured: true,
+      thumbnail: "assets/westat.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://westatlantictech.com/",
+    },
+    {
       title: "KindJob",
       isFeatured: true,
       thumbnail: "assets/p1.png",
       // githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://kindjobs.co/",
-    },
-    {
-      title: "Covest",
-      isFeatured: true,
-      thumbnail: "assets/p2.png",
-      githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
-      liveUrl: "https://www.covest.in/",
     },
   ],
 };
