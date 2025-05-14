@@ -91,6 +91,13 @@ export const info = {
       liveUrl: "https://westatlantictech.com/",
     },
     {
+      title: "Data Bazaar",
+      isFeatured: true,
+      thumbnail: "assets/databazzar.png",
+      // githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://admin.databazaar.co/",
+    },
+    {
       title: "KindJob",
       isFeatured: true,
       thumbnail: "assets/p1.png",
