@@ -102,7 +102,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "assets/p1.png",
       // githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://kindjobs.co/",
+      liveUrl: "https://kindjobs.in/",
     },
   ],
 };
