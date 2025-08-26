@@ -6,7 +6,7 @@ export const info = {
   //  I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
   //  I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
   //  I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-  //  I have successfully completed several web projects from scratch. 
+  //  I have successfully completed several web projects from scratch.
   //  Yet, I learn continuously and never stop exploring new technologies.
   //  So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
   //  firebase and React Native with time.
@@ -61,9 +61,7 @@ export const info = {
       location: "Bardoli, Gujarat",
       startDate: "2018",
       endDate: "2022",
-      description: [
-        "Bachelor in Information & Technology",
-      ],
+      description: ["Bachelor in Information & Technology"],
     },
   ],
 
@@ -77,11 +75,11 @@ export const info = {
 
   projects: [
     {
-      title: "Covest",
+      title: "KindJob",
       isFeatured: true,
-      thumbnail: "assets/p2.png",
-      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
-      liveUrl: "https://www.covest.in/",
+      thumbnail: "assets/image.png",
+      // githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://kindjobs.in/",
     },
     {
       title: "Westatlantic Tech Corp.",
@@ -91,18 +89,39 @@ export const info = {
       liveUrl: "https://westatlantictech.com/",
     },
     {
+      title: "Sai Infotech",
+      isFeatured: true,
+      thumbnail: "assets/sai.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://saiinfotech.co/newsaidesign/",
+    },
+    {
+      title: "Basilico",
+      isFeatured: true,
+      thumbnail: "assets/basilico.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://www.thebasilico.co.uk/",
+    },
+    {
+      title: "Freightliner Atlas",
+      isFeatured: true,
+      thumbnail: "assets/flr.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://flratlas.com/",
+    },
+    {
+      title: "Covest",
+      isFeatured: true,
+      thumbnail: "assets/p2.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://www.covest.in/",
+    },
+    {
       title: "Data Bazaar",
       isFeatured: true,
       thumbnail: "assets/databazzar.png",
       // githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://admin.databazaar.co/",
-    },
-    {
-      title: "KindJob",
-      isFeatured: true,
-      thumbnail: "assets/p1.png",
-      // githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://kindjobs.in/",
     },
   ],
 };
