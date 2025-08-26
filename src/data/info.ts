@@ -110,6 +110,13 @@ export const info = {
       liveUrl: "https://flratlas.com/",
     },
     {
+      title: "Miracle Overseas",
+      isFeatured: true,
+      thumbnail: "assets/miracle.png",
+      // githubUrl: "https://github.com/Kishan-gaiwala/CovetHtmlSite",
+      liveUrl: "https://overseas-web.vercel.app/",
+    },
+    {
       title: "Covest",
       isFeatured: true,
       thumbnail: "assets/p2.png",
